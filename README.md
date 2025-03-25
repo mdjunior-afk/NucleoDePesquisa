@@ -1,1 +1,3 @@
-# NucleoDePesquisa
+# Nucleo de Pesquisa
+
+## Objetivo
